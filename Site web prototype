@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Votre Nom d'Entreprise</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <div class="logo">
+      <img src="logo.png" alt="Votre Logo">
+    </div>
+    <nav>
+      <ul>
+        <li><a href="#accueil">Accueil</a></li>
+        <li><a href="#boutique">Boutique</a></li>
+        <li><a href="#evenements">Événements</a></li>
+        <li><a href="#apropos">À Propos</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Bannière -->
+  <section class="banner">
+    <h1>Votre Message Accrocheur</h1>
+    <p>Une brève description de votre entreprise ou de vos produits.</p>
+    <a href="#boutique" class="btn">Explorer la Boutique</a>
+  </section>
+
+  <!-- Section Produits en Vedette -->
+  <section class="featured-products">
+    <!-- Ajoutez ici une liste de produits en vedette -->
+  </section>
+
+  <!-- Section Événements à Venir -->
+  <section class="upcoming-events">
+    <!-- Ajoutez ici une liste d'événements à venir -->
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2024 Votre Nom d'Entreprise. Tous droits réservés.</p>
+  </footer>
+
+</body>
+</html>
